@@ -346,8 +346,7 @@ Message-ID: <xyz@localhost>
 - Подсказку по использованию
 
 ### Страница голосования
-![Страница голосования](https://github.com/user-attachments/assets/2ed7c471-de81-4d86-b6cd-69ad3f530cc1)
-
+<img width="1635" height="709" alt="image" src="https://github.com/user-attachments/assets/2ed7c871-de81-4d86-b6cd-69ad3f530cc1" />
 Интерфейс для голосования в опросе. Пользователи могут:
 - Видеть текст вопроса
 - Выбирать один вариант из предложенных
